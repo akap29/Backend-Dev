@@ -1,0 +1,16 @@
+# Basic Linux Commands
+
+ls - Lists files and directories in the current directory
+cd - Changes the current directory to another location
+pwd - Prints the current working directory path
+touch - Creates an empty file or updates the timestamp of an existing file
+cat - Displays the contents of a file
+echo - Prints text or variables to the standard output
+
+whoami - Displays the current username
+ls -l - Lists files and directories with detailed information (long format)
+ls -a - Lists all files and directories, including hidden ones
+grep - Searches for lines matching a pattern in files
+rm - Removes (deletes) files or directories
+rm -f - Forcefully removes files without prompting for confirmation
+rm -rf - Recursively removes directories and their contents forcefully
